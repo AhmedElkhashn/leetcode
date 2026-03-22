@@ -1,0 +1,11 @@
+{
+  "title": "Problem Name",
+  "link": "https://leetcode.com/problems/example/",
+  "difficulty": "easy",
+  "topic": "arrays",
+  "solved": false,
+  "problem statement": "",
+  "approach": "",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(n)"
+}
