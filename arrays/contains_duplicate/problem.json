@@ -1,0 +1,11 @@
+{
+  "title": "Contains Duplicate",
+  "link": "https://leetcode.com/problems/contains-duplicate/",
+  "difficulty": "easy",
+  "topic": "arrays",
+  "solved": true,
+  "problem statement": "Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.",
+  "approach": "Use a hash set to track numbers we've already seen as we iterate. If we encounter a number that's already in the set, we immediately return True. If we finish the loop without a match, return False. A set is used because the lookup is O(1)",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(n)"
+}
