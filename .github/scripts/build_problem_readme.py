@@ -79,8 +79,6 @@ def build_problem_readme(p: dict) -> str:
         "",
         "## Complexity",
         "",
-        "| | |",
-        "|-|-|",
         f"| Time | `{time_c if time_c else '?'}` |",
         f"| Space | `{space_c if space_c else '?'}` |",
         "",
