@@ -32,12 +32,6 @@ def load_all_problems(root: str = ".") -> list[dict]:
     return problems
  
 
-def build_progress_bar(current: int, target: int, width: int = 30) -> str:
-    filled = int(width * min(current, target) / target)
-    bar = "█" * filled + "░" * (width - filled)
-    pct = round(100 * current / target, 1)
-    return f"`{bar}` {pct}%"
- 
  
 def build_readme(problems: list[dict]) -> str:
     total = len(problems)
@@ -57,8 +51,6 @@ def build_readme(problems: list[dict]) -> str:
         "",
         "",
         f"## Progress — {solved} / {TARGET} solved",
-        "",
-        build_progress_bar(solved, TARGET),
         "",
         "",
         "## How I Use This Repo",
