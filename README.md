@@ -6,8 +6,6 @@
 
 ## Progress — 1 / 150 solved
 
-`░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 0.7%
-
 
 ## How I Use This Repo
 
