@@ -1,0 +1,11 @@
+{
+  "title": "Two Sum",
+  "link": "https://leetcode.com/problems/two-sum/",
+  "difficulty": "easy",
+  "topic": "arrays",
+  "solved": true,
+  "problem statement": "Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. You may assume that each input would have exactly one solution, and you may not use the same element twice. You can return the answer in any order.",
+  "approach": "iterate through the array and calculate for each number the value you needed to reach the target, check if that value is in the dictionary if it is we return the indices otherwise add the number to the dictionary",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(n)"
+}
