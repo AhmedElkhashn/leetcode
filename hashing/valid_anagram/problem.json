@@ -1,0 +1,11 @@
+{
+  "title": "Valid Anagram",
+  "link": "https://leetcode.com/problems/valid-anagram/",
+  "difficulty": "easy",
+  "topic": "hashing",
+  "solved": true,
+  "problem statement": "Given two strings s and t, return true if t is an anagram of s, and false otherwise.",
+  "approach": "First check if they have the same length, if they do they can't be anagrams. Create a hash table for each string with the count of each character and compare the two tables.",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(n)"
+}
