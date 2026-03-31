@@ -1,0 +1,11 @@
+{
+  "title": "Group Anagrams",
+  "link": "https://leetcode.com/problems/group-anagrams/",
+  "difficulty": "medium",
+  "topic": "hashing",
+  "solved": true,
+  "problem statement": "Given an array of strings strs, group the anagrams together. You can return the answer in any order.",
+  "approach": "For each string we create a list with the count of the letters and then convert it to a tuple so it can be used as a key. All strings that are anagrams of each other will produce the exact same tuple, so they all get grouped under the same key in the hash map, the values are then put into a list and returned.",
+  "time_complexity": "O(m*n) m is the number of strings and n is the length of each string",
+  "space_complexity": "O(m*n) m is the number of strings and n is the length of each string"
+}
