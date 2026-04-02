@@ -1,10 +1,10 @@
 # LeetCode Practice
  Just a repo used to track my LeetCode progress and to motivate me to do more (done in Python) with the goal to solve 150 problems
 
-> Auto-generated · Last updated: 2026-03-31
+> Auto-generated · Last updated: 2026-04-02
 
 
-## Progress — 4 / 150 solved
+## Progress — 5 / 150 solved
 
 
 ## How I Use This Repo
@@ -20,7 +20,7 @@
 
 | Topic | Problems |
 |-------|----------|
-| Arrays | 2 |
+| Arrays | 3 |
 | Hashing | 2 |
 
 
@@ -30,8 +30,9 @@
 |---|---------|-------|------------|--------|
 | 1 | [Group Anagrams](./hashing/group_anagrams/README.md) | Hashing | medium | Yes |
 | 2 | [Valid Anagram](./hashing/valid_anagram/README.md) | Hashing | easy | Yes |
-| 3 | [Two Sum](./arrays/two_sum/README.md) | Arrays | easy | Yes |
-| 4 | [Contains Duplicate](./arrays/contains_duplicate/README.md) | Arrays | easy | Yes |
+| 3 | [Top K Frequent Elements](./arrays/top_k_freq/README.md) | Arrays | medium | Yes |
+| 4 | [Two Sum](./arrays/two_sum/README.md) | Arrays | easy | Yes |
+| 5 | [Contains Duplicate](./arrays/contains_duplicate/README.md) | Arrays | easy | Yes |
 
 
 ## Difficulty Breakdown
@@ -39,9 +40,9 @@
 | Difficulty | Count |
 |------------|-------|
 | easy | 3 |
-| medium | 1 |
+| medium | 2 |
 | hard | 0 |
-| **Total** | **4** |
+| **Total** | **5** |
 
 
 ---
