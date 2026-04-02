@@ -1,0 +1,11 @@
+{
+  "title": "Top K Frequent Elements",
+  "link": "https://leetcode.com/problems/top-k-frequent-elements/",
+  "difficulty": "medium",
+  "topic": "arrays",
+  "solved": true,
+  "problem statement": "Given an integer array nums and an integer k, return the k most frequent elements. You may return the answer in any order.",
+  "approach": "Create a hash map where the key is the number and the values are the counts and create a list of empty lists for each possible frequency. loop through nums to populate the count hash map and then loop through the hashmap and populate frequency list. Finally loop through the frequency list in descending orderer and return k elements. this approach uses bucket sort",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(n)"
+}
