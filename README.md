@@ -4,7 +4,7 @@
 > Auto-generated · Last updated: 2026-04-02
 
 
-## Progress — 5 / 150 solved
+## Progress — 6 / 150 solved
 
 
 ## How I Use This Repo
@@ -20,7 +20,7 @@
 
 | Topic | Problems |
 |-------|----------|
-| Arrays | 3 |
+| Arrays | 4 |
 | Hashing | 2 |
 
 
@@ -31,8 +31,9 @@
 | 1 | [Group Anagrams](./hashing/group_anagrams/README.md) | Hashing | medium | Yes |
 | 2 | [Valid Anagram](./hashing/valid_anagram/README.md) | Hashing | easy | Yes |
 | 3 | [Top K Frequent Elements](./arrays/top_k_freq/README.md) | Arrays | medium | Yes |
-| 4 | [Two Sum](./arrays/two_sum/README.md) | Arrays | easy | Yes |
-| 5 | [Contains Duplicate](./arrays/contains_duplicate/README.md) | Arrays | easy | Yes |
+| 4 | [Product of Array Except Self](./arrays/product_of_array_except_self/README.md) | Arrays | medium | Yes |
+| 5 | [Two Sum](./arrays/two_sum/README.md) | Arrays | easy | Yes |
+| 6 | [Contains Duplicate](./arrays/contains_duplicate/README.md) | Arrays | easy | Yes |
 
 
 ## Difficulty Breakdown
@@ -40,9 +41,9 @@
 | Difficulty | Count |
 |------------|-------|
 | easy | 3 |
-| medium | 2 |
+| medium | 3 |
 | hard | 0 |
-| **Total** | **5** |
+| **Total** | **6** |
 
 
 ---
