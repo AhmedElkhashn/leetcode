@@ -1,0 +1,11 @@
+{
+  "title": "Valid Sudoku",
+  "link": "https://leetcode.com/problems/valid-sudoku/",
+  "difficulty": "medium",
+  "topic": "arrays",
+  "solved": true,
+  "problem statement": "Determine if a 9x9 Sudoku board is valid. Only the filled cells need to be validated according to the following rules:\n\n1. Each row must contain the digits 1-9 without repetition.\n2. Each column must contain the digits 1-9 without repetition.\n3. Each of the nine 3x3 sub-boxes of the grid must contain the digits 1-9 without repetition.\n\nNote: A Sudoku board (partially filled) could be valid but is not necessarily solvable. Only the filled cells need to be validated.",
+  "approach": "Create 3 hashmaps one for columns, rows and 3x3 squares. Iterate through each box in the 9x9 grid and check for any duplicates, if found return false. If it passess all check return true",
+  "time_complexity": "O(1)",
+  "space_complexity": "O(1)"
+}
