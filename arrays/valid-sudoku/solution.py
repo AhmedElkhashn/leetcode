@@ -4,9 +4,9 @@ from typing import List
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
        
-        columns = collections.defaultdict(set)
-        rows = collections.defaultdict(set)
-        squares = collections.defaultdict(set)
+        columns = defaultdict(set)
+        rows = defaultdict(set)
+        squares = defaultdict(set)
 
 
         for i in range(9):
