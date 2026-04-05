@@ -1,0 +1,11 @@
+{
+  "title": "Longest Consecutive Sequence",
+  "link": "https://leetcode.com/problems/longest-consecutive-sequence/",
+  "difficulty": "medium",
+  "topic": "arrays",
+  "solved": true,
+  "problem statement": "Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence. You must write an algorithm that runs in O(n) time.",
+  "approach": "Convert nums into a set so all lookups are O(1). got each number n you check if n-1 exists in the set. If it does, n is in the middle of a sequence and you skip it. If it doesn't, n is the start of a sequence. Then use a while loop to keep incrementing length as long as the next consecutive number exists in the set. Once the chain breaks you update longest if this sequence was longer than the previous best.",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(n)"
+}
