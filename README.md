@@ -1,10 +1,10 @@
 # LeetCode Practice
  Just a repo used to track my LeetCode progress and to motivate me to do more (done in Python) with the goal to solve 150 problems
 
-> Auto-generated · Last updated: 2026-04-06
+> Auto-generated · Last updated: 2026-04-07
 
 
-## Progress — 9 / 150 solved
+## Progress — 10 / 150 solved
 
 
 ## How I Use This Repo
@@ -22,7 +22,7 @@
 |-------|----------|
 | Arrays | 6 |
 | Hashing | 2 |
-| Stack | 1 |
+| Stack | 2 |
 
 
 ## All Problems
@@ -32,12 +32,13 @@
 | 1 | [Group Anagrams](./hashing/group_anagrams/README.md) | Hashing | medium | Yes |
 | 2 | [Valid Anagram](./hashing/valid_anagram/README.md) | Hashing | easy | Yes |
 | 3 | [Valid Parentheses](./stack/valid_parentheses/README.md) | Stack | easy | Yes |
-| 4 | [Top K Frequent Elements](./arrays/top_k_freq/README.md) | Arrays | medium | Yes |
-| 5 | [Product of Array Except Self](./arrays/product_of_array_except_self/README.md) | Arrays | medium | Yes |
-| 6 | [Longest Consecutive Sequence](./arrays/longest_consecutive_seq/README.md) | Arrays | medium | Yes |
-| 7 | [Valid Sudoku](./arrays/valid-sudoku/README.md) | Arrays | medium | Yes |
-| 8 | [Two Sum](./arrays/two_sum/README.md) | Arrays | easy | Yes |
-| 9 | [Contains Duplicate](./arrays/contains_duplicate/README.md) | Arrays | easy | Yes |
+| 4 | [Min Stack](./stack/min_stack/README.md) | Stack | medium | Yes |
+| 5 | [Top K Frequent Elements](./arrays/top_k_freq/README.md) | Arrays | medium | Yes |
+| 6 | [Product of Array Except Self](./arrays/product_of_array_except_self/README.md) | Arrays | medium | Yes |
+| 7 | [Longest Consecutive Sequence](./arrays/longest_consecutive_seq/README.md) | Arrays | medium | Yes |
+| 8 | [Valid Sudoku](./arrays/valid-sudoku/README.md) | Arrays | medium | Yes |
+| 9 | [Two Sum](./arrays/two_sum/README.md) | Arrays | easy | Yes |
+| 10 | [Contains Duplicate](./arrays/contains_duplicate/README.md) | Arrays | easy | Yes |
 
 
 ## Difficulty Breakdown
@@ -45,9 +46,9 @@
 | Difficulty | Count |
 |------------|-------|
 | easy | 4 |
-| medium | 5 |
+| medium | 6 |
 | hard | 0 |
-| **Total** | **9** |
+| **Total** | **10** |
 
 
 ---
