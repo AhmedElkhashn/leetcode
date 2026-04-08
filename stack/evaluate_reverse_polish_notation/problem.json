@@ -1,0 +1,11 @@
+{
+  "title": "Evaluate Reverse Polish Notation",
+  "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+  "difficulty": "medium",
+  "topic": "stack",
+  "solved": true,
+  "problem statement": "You are given an array of strings tokens that represents an arithmetic expression in Reverse Polish Notation. Evaluate the expression and return an integer that represents its value.\n\nNote that:\n\n- The valid operators are '+', '-', '*', and '/'.\n- Each operand may be an integer or another expression.\n- The division between two integers always truncates toward zero.\n- There will not be any division by zero.\n- The input represents a valid arithmetic expression in Reverse Polish Notation.\n- The answer and all intermediate calculations can be represented in a 32-bit integer.",
+  "approach": "Loop through the list if it's a number we push it to the stack otherwise if it's an operation we pop the last two values in the stack and perform the operation then push the result. Then return the last values in the stack. ",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(n)"
+}
