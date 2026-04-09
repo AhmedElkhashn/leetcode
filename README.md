@@ -1,10 +1,10 @@
 # LeetCode Practice
  Just a repo used to track my LeetCode progress and to motivate me to do more (done in Python) with the goal to solve 150 problems
 
-> Auto-generated · Last updated: 2026-04-08
+> Auto-generated · Last updated: 2026-04-09
 
 
-## Progress — 11 / 150 solved
+## Progress — 12 / 150 solved
 
 
 ## How I Use This Repo
@@ -22,24 +22,25 @@
 |-------|----------|
 | Arrays | 6 |
 | Hashing | 2 |
-| Stack | 3 |
+| Stack | 4 |
 
 
 ## All Problems
 
 | # | Problem | Topic | Difficulty | Solved |
 |---|---------|-------|------------|--------|
-| 1 | [Product of Array Except Self](./arrays/product_of_array_except_self/README.md) | Arrays | medium | Yes |
-| 2 | [Contains Duplicate](./arrays/contains_duplicate/README.md) | Arrays | easy | Yes |
-| 3 | [Valid Sudoku](./arrays/valid-sudoku/README.md) | Arrays | medium | Yes |
-| 4 | [Two Sum](./arrays/two_sum/README.md) | Arrays | easy | Yes |
-| 5 | [Top K Frequent Elements](./arrays/top_k_freq/README.md) | Arrays | medium | Yes |
-| 6 | [Longest Consecutive Sequence](./arrays/longest_consecutive_seq/README.md) | Arrays | medium | Yes |
-| 7 | [Evaluate Reverse Polish Notation](./stack/evaluate_reverse_polish_notation/README.md) | Stack | medium | Yes |
-| 8 | [Valid Parentheses](./stack/valid_parentheses/README.md) | Stack | easy | Yes |
-| 9 | [Min Stack](./stack/min_stack/README.md) | Stack | medium | Yes |
-| 10 | [Valid Anagram](./hashing/valid_anagram/README.md) | Hashing | easy | Yes |
-| 11 | [Group Anagrams](./hashing/group_anagrams/README.md) | Hashing | medium | Yes |
+| 1 | [Group Anagrams](./hashing/group_anagrams/README.md) | Hashing | medium | Yes |
+| 2 | [Valid Anagram](./hashing/valid_anagram/README.md) | Hashing | easy | Yes |
+| 3 | [Evaluate Reverse Polish Notation](./stack/evaluate_reverse_polish_notation/README.md) | Stack | medium | Yes |
+| 4 | [Valid Parentheses](./stack/valid_parentheses/README.md) | Stack | easy | Yes |
+| 5 | [Min Stack](./stack/min_stack/README.md) | Stack | medium | Yes |
+| 6 | [Daily Temperature ](./stack/daily_temperature/README.md) | Stack | medium | Yes |
+| 7 | [Top K Frequent Elements](./arrays/top_k_freq/README.md) | Arrays | medium | Yes |
+| 8 | [Product of Array Except Self](./arrays/product_of_array_except_self/README.md) | Arrays | medium | Yes |
+| 9 | [Longest Consecutive Sequence](./arrays/longest_consecutive_seq/README.md) | Arrays | medium | Yes |
+| 10 | [Valid Sudoku](./arrays/valid-sudoku/README.md) | Arrays | medium | Yes |
+| 11 | [Two Sum](./arrays/two_sum/README.md) | Arrays | easy | Yes |
+| 12 | [Contains Duplicate](./arrays/contains_duplicate/README.md) | Arrays | easy | Yes |
 
 
 ## Difficulty Breakdown
@@ -47,9 +48,9 @@
 | Difficulty | Count |
 |------------|-------|
 | easy | 4 |
-| medium | 7 |
+| medium | 8 |
 | hard | 0 |
-| **Total** | **11** |
+| **Total** | **12** |
 
 
 ---
