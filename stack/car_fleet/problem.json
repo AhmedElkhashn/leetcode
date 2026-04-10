@@ -1,0 +1,11 @@
+{
+  "title": "Car Fleet",
+  "link": "https://leetcode.com/problems/car-fleet/",
+  "difficulty": "medium",
+  "topic": "stack",
+  "solved": true,
+  "problem statement": "There are n cars at given miles away from the starting mile 0, traveling to reach the mile target.\n\nYou are given two integer arrays position and speed, both of length n, where position[i] is the starting mile of the ith car and speed[i] is the speed of the ith car in miles per hour.\n\nA car cannot pass another car, but it can catch up and then travel next to it at the speed of the slower car.\n\nA car fleet is a single car or a group of cars driving next to each other. The speed of the car fleet is the minimum speed of any car in the fleet.\n\nIf a car catches up to a car fleet at the mile target, it will still be considered as part of the car fleet.\n\nReturn the number of car fleets that will arrive at the destination.",
+  "approach": "Sort them in descending order depending on position, iterate through them and push the time taken to reach the target to the stack. Check if the car's time is less than the one ahead of it, if it is we pop it because it gets absorbed into the fleet. Return the length of the stack in the end",
+  "time_complexity": "O(n long(n))",
+  "space_complexity": "O(n)"
+}
