@@ -1,10 +1,10 @@
 # LeetCode Practice
  Just a repo used to track my LeetCode progress and to motivate me to do more (done in Python) with the goal to solve 150 problems
 
-> Auto-generated · Last updated: 2026-04-10
+> Auto-generated · Last updated: 2026-04-11
 
 
-## Progress — 13 / 150 solved
+## Progress — 14 / 150 solved
 
 
 ## How I Use This Repo
@@ -22,7 +22,7 @@
 |-------|----------|
 | Arrays | 6 |
 | Hashing | 2 |
-| Stack | 5 |
+| Stack | 6 |
 
 
 ## All Problems
@@ -38,10 +38,11 @@
 | 7 | [Car Fleet](./stack/car_fleet/README.md) | Stack | medium | Yes |
 | 8 | [Evaluate Reverse Polish Notation](./stack/evaluate_reverse_polish_notation/README.md) | Stack | medium | Yes |
 | 9 | [Daily Temperature ](./stack/daily_temperature/README.md) | Stack | medium | Yes |
-| 10 | [Valid Parentheses](./stack/valid_parentheses/README.md) | Stack | easy | Yes |
-| 11 | [Min Stack](./stack/min_stack/README.md) | Stack | medium | Yes |
-| 12 | [Valid Anagram](./hashing/valid_anagram/README.md) | Hashing | easy | Yes |
-| 13 | [Group Anagrams](./hashing/group_anagrams/README.md) | Hashing | medium | Yes |
+| 10 | [Largest Rectangle in Histogram](./stack/largest_rectangle_area/README.md) | Stack | hard | Yes |
+| 11 | [Valid Parentheses](./stack/valid_parentheses/README.md) | Stack | easy | Yes |
+| 12 | [Min Stack](./stack/min_stack/README.md) | Stack | medium | Yes |
+| 13 | [Valid Anagram](./hashing/valid_anagram/README.md) | Hashing | easy | Yes |
+| 14 | [Group Anagrams](./hashing/group_anagrams/README.md) | Hashing | medium | Yes |
 
 
 ## Difficulty Breakdown
@@ -50,8 +51,8 @@
 |------------|-------|
 | easy | 4 |
 | medium | 9 |
-| hard | 0 |
-| **Total** | **13** |
+| hard | 1 |
+| **Total** | **14** |
 
 
 ---
