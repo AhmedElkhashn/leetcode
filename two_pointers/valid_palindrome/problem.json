@@ -1,0 +1,11 @@
+{
+  "title": "Valid Palindrome",
+  "link": "https://leetcode.com/problems/example/",
+  "difficulty": "easy",
+  "topic": "two_pointers",
+  "solved": true,
+  "problem statement": "A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.\n\nGiven a string s, return true if it is a palindrome, or false otherwise.",
+  "approach": "Use two pointers at the opposite sides of the string, skip over any non-alphanumeric characters then compare the characters. Return false if they are not equal otherwise increment till the pointers meet in the middle then return true. ",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(1)"
+}
