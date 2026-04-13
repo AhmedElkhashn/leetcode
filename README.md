@@ -1,10 +1,10 @@
 # LeetCode Practice
  Just a repo used to track my LeetCode progress and to motivate me to do more (done in Python) with the goal to solve 150 problems
 
-> Auto-generated · Last updated: 2026-04-11
+> Auto-generated · Last updated: 2026-04-12
 
 
-## Progress — 14 / 150 solved
+## Progress — 15 / 150 solved
 
 
 ## How I Use This Repo
@@ -23,6 +23,7 @@
 | Arrays | 6 |
 | Hashing | 2 |
 | Stack | 6 |
+| Two Pointers | 1 |
 
 
 ## All Problems
@@ -41,18 +42,19 @@
 | 10 | [Largest Rectangle in Histogram](./stack/largest_rectangle_area/README.md) | Stack | hard | Yes |
 | 11 | [Valid Parentheses](./stack/valid_parentheses/README.md) | Stack | easy | Yes |
 | 12 | [Min Stack](./stack/min_stack/README.md) | Stack | medium | Yes |
-| 13 | [Valid Anagram](./hashing/valid_anagram/README.md) | Hashing | easy | Yes |
-| 14 | [Group Anagrams](./hashing/group_anagrams/README.md) | Hashing | medium | Yes |
+| 13 | [Valid Palindrome](./two_pointers/valid_palindrome/README.md) | Two Pointers | easy | Yes |
+| 14 | [Valid Anagram](./hashing/valid_anagram/README.md) | Hashing | easy | Yes |
+| 15 | [Group Anagrams](./hashing/group_anagrams/README.md) | Hashing | medium | Yes |
 
 
 ## Difficulty Breakdown
 
 | Difficulty | Count |
 |------------|-------|
-| easy | 4 |
+| easy | 5 |
 | medium | 9 |
 | hard | 1 |
-| **Total** | **14** |
+| **Total** | **15** |
 
 
 ---
