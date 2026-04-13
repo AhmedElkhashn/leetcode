@@ -1,0 +1,11 @@
+{
+  "title": "Two Sum II - Input Array Is Sorted",
+  "link": "https://leetcode.com/problems/example/",
+  "difficulty": "medium",
+  "topic": "two_pointers",
+  "solved": true,
+  "problem statement": "Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order, find two numbers such that they add up to a specific target number. Let these two numbers be numbers[index1] and numbers[index2] where 1 <= index1 < index2 <= numbers.length. \n\nReturn the indices of the two numbers index1 and index2, each incremented by one, as an integer array [index1, index2] of length 2.\n\nThe tests are generated such that there is exactly one solution. You may not use the same element twice.\n\nYour solution must use only constant extra space.",
+  "approach": "Two pointers at opposite ends of the array. we add the numbers at the opposite ends if they are smaller than the target increment the left pointer to increase the sum if its lower we decrement the right pointer until we find the target. ",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(1)"
+}
