@@ -1,0 +1,11 @@
+{
+  "title": "3Sum",
+  "link": "https://leetcode.com/problems/3sum/",
+  "difficulty": "medium",
+  "topic": "two pointers",
+  "solved": true,
+  "problem statement": "Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.\n\nNotice that the solution set must not contain duplicate triplets.",
+  "approach": "We sort the array then iterate over it, and then for each iteration it becomes a 2sum problem and we use a similar approach as explained [here](../two_sum_2/README.md)",
+  "time_complexity": "O(n²)",
+  "space_complexity": "O(1)"
+}
