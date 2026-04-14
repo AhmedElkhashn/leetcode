@@ -42,7 +42,7 @@
 | 10 | [Largest Rectangle in Histogram](./stack/largest_rectangle_area/README.md) | Stack | hard | Yes |
 | 11 | [Valid Parentheses](./stack/valid_parentheses/README.md) | Stack | easy | Yes |
 | 12 | [Min Stack](./stack/min_stack/README.md) | Stack | medium | Yes |
-| 13 | [3Sum](./two pointers/three_sum/README.md) | Two Pointers | medium | Yes |
+| 13 | [3Sum](./two_pointers/three_sum/README.md) | Two Pointers | medium | Yes |
 | 14 | [Two Sum II - Input Array Is Sorted](./two_pointers/two_sum_2/README.md) | Two Pointers | medium | Yes |
 | 15 | [Valid Palindrome](./two_pointers/valid_palindrome/README.md) | Two Pointers | easy | Yes |
 | 16 | [Valid Anagram](./hashing/valid_anagram/README.md) | Hashing | easy | Yes |
