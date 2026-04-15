@@ -1,10 +1,10 @@
 # LeetCode Practice
  Just a repo used to track my LeetCode progress and to motivate me to do more (done in Python) with the goal to solve 150 problems
 
-> Auto-generated · Last updated: 2026-04-14
+> Auto-generated · Last updated: 2026-04-15
 
 
-## Progress — 17 / 150 solved
+## Progress — 18 / 150 solved
 
 
 ## How I Use This Repo
@@ -23,7 +23,7 @@
 | Arrays | 6 |
 | Hashing | 2 |
 | Stack | 6 |
-| Two Pointers | 3 |
+| Two Pointers | 4 |
 
 
 ## All Problems
@@ -44,9 +44,10 @@
 | 12 | [Min Stack](./stack/min_stack/README.md) | Stack | medium | Yes |
 | 13 | [3Sum](./two_pointers/three_sum/README.md) | Two Pointers | medium | Yes |
 | 14 | [Two Sum II - Input Array Is Sorted](./two_pointers/two_sum_2/README.md) | Two Pointers | medium | Yes |
-| 15 | [Valid Palindrome](./two_pointers/valid_palindrome/README.md) | Two Pointers | easy | Yes |
-| 16 | [Valid Anagram](./hashing/valid_anagram/README.md) | Hashing | easy | Yes |
-| 17 | [Group Anagrams](./hashing/group_anagrams/README.md) | Hashing | medium | Yes |
+| 15 | [Container With Most Water](./two_pointers/container_with_most_water/README.md) | Two Pointers | medium | Yes |
+| 16 | [Valid Palindrome](./two_pointers/valid_palindrome/README.md) | Two Pointers | easy | Yes |
+| 17 | [Valid Anagram](./hashing/valid_anagram/README.md) | Hashing | easy | Yes |
+| 18 | [Group Anagrams](./hashing/group_anagrams/README.md) | Hashing | medium | Yes |
 
 
 ## Difficulty Breakdown
@@ -54,9 +55,9 @@
 | Difficulty | Count |
 |------------|-------|
 | easy | 5 |
-| medium | 11 |
+| medium | 12 |
 | hard | 1 |
-| **Total** | **17** |
+| **Total** | **18** |
 
 
 ---
