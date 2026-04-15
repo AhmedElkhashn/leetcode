@@ -1,0 +1,11 @@
+{
+  "title": "Container With Most Water",
+  "link": "https://leetcode.com/problems/container-with-most-water/",
+  "difficulty": "medium",
+  "topic": "two_pointers",
+  "solved": true,
+  "problem statement": "You are given an integer array height of length n. There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]).\n\nFind two lines that together with the x-axis form a container, such that the container contains the most water.\n\nReturn the maximum amount of water a container can store.",
+  "approach": "Using two pointers at each end of the array so we have the max width we then move one of the pointers towards the column with the max height calculating the area at each iteration, storing the max value.",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(1)"
+}
