@@ -1,0 +1,11 @@
+{
+  "title": "Trapping Rain Water",
+  "link": "https://leetcode.com/problems/example/",
+  "difficulty": "hard",
+  "topic": "two_pointers",
+  "solved": true,
+  "problem statement": "Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.",
+  "approach": "In a single position the water level is minimum between the tallest bar to its right and the tallest bar to its left, since the water would spill over the shorter bar. You then subtract the height at that position to get the water that can be held there. Using two pointers at opposite ends of the array we calculate it and increment towards the one that is shorter side its the limiting factor. ",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(1)"
+}
