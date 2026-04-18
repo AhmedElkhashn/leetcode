@@ -1,0 +1,11 @@
+{
+  "title": "Reverse Linked List",
+  "link": "https://leetcode.com/problems/reverse-linked-list/",
+  "difficulty": "easy",
+  "topic": "linked_list",
+  "solved": true,
+  "problem statement": "Given the head of a singly linked list, reverse the list, and return the reversed list.",
+  "approach": "Iterative: \n\nAt each iteration with save the next node then set the current node to point to the previous and then move them forward by setting the previous node to the current and the current to the next node \n\nRecursive: we recursively traverse to the end of the list, we make the next node point back to the current one and set the pointer of the current node to null until the whole list is reveres and we then return it.",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(1)/O(n) for recursive"
+}
