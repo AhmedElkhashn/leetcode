@@ -1,0 +1,11 @@
+{
+  "title": "https://leetcode.com/problems/merge-two-sorted-lists/",
+  "link": "https://leetcode.com/problems/merge-two-sorted-lists/",
+  "difficulty": "easy",
+  "topic": "linked_list",
+  "solved": true,
+  "problem statement": "You are given the heads of two sorted linked lists list1 and list2.\n\nMerge the two lists into one sorted list. The list should be made by splicing together the nodes of the first two lists.\n\nReturn the head of the merged linked list.",
+  "approach": "Iterate while both lists have nodes remaining, comparing the current values of each. The smaller value gets appended to tail. Append whichever lis has remaining values to the end.",
+  "time_complexity": "O(n + m) — n and m are the lengths of the two lists",
+  "space_complexity": "O(1)"
+}
