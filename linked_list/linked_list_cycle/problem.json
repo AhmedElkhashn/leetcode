@@ -1,0 +1,11 @@
+{
+  "title": "Linked List Cycle",
+  "link": "https://leetcode.com/problems/linked-list-cycle/",
+  "difficulty": "easy",
+  "topic": "linked_list",
+  "solved": true,
+  "problem statement": "Given head, the head of a linked list, determine if the linked list has a cycle in it.\n\nThere is a cycle in a linked list if there is some node in the list that can be reached again by continuously following the next pointer. Internally, pos is used to denote the index of the node that tail's next pointer is connected to. Note that pos is not passed as a parameter.\n\nReturn true if there is a cycle in the linked list. Otherwise, return false.",
+  "approach": "Two pointers starting at the head, i moves one step at a time and j moves two steps at a time. If there is a cycle, j will eventually lap i and they will meet at the same node. If there is no cycle, j will reach the end of the list and the while loop exits.",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(1)"
+}
