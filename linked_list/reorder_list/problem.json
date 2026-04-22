@@ -1,0 +1,11 @@
+{
+  "title": "Reorder List",
+  "link": "https://leetcode.com/problems/reorder-list/",
+  "difficulty": "medium",
+  "topic": "linked_list",
+  "solved": true,
+  "problem statement": "You are given the head of a singly linked-list. The list can be represented as: \n\n> L\u2080 \u2192 L\u2081 \u2192 ... \u2192 L\u2099\u208b\u2081 \u2192 L\u2099 \n\nReorder the list to be on the following form:\n\n> L\u2080 \u2192 L\u2099 \u2192 L\u2081 \u2192 L\u2099\u208b\u2081 \u2192 L\u2082 \u2192 L\u2099\u208b\u2082 \u2192 \u2026 \n\nYou may not modify the values in the list's nodes. Only nodes themselves may be changed.",
+  "approach": "using a slow and fast pointer we find the middle of the list, split the list into two and reverse the second half. Then we merge both lists.",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(1)"
+}
