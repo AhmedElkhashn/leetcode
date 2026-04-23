@@ -1,0 +1,11 @@
+{
+  "title": "Remove Nth Node From End of List",
+  "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+  "difficulty": "medium",
+  "topic": "linked_list",
+  "solved": true,
+  "problem statement": "Given the head of a linked list, remove the nth node from the end of the list and return its head.",
+  "approach": "Using 2 pointers with a gap of n between them. curr pointer starts from the dummy node that points to the head, the end pointer starts from the head and then is incremented by n steps. Then iterate that pointer till it reaches the end, this leaves the curr pointer at the node before the one that needs to be removed. Break the link pointing to that node and then return dummy.next this handles the edge case where the head is removed.",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(1)"
+}
