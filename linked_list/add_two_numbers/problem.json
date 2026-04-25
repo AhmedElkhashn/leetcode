@@ -1,0 +1,11 @@
+{
+  "title": "Add Two Numbers",
+  "link": "https://leetcode.com/problems/add-two-numbers/",
+  "difficulty": "medium",
+  "topic": "linked_list",
+  "solved": true,
+  "problem statement": "You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.\n\nYou may assume the two numbers do not contain any leading zero, except the number 0 itself.",
+  "approach": "we iterate over until there are no values left in the lists or there is no carry, we calculate the sum and the carry and append the new node each iteration. ",
+  "time_complexity": "O(n) - where n is the length of the longer list",
+  "space_complexity": "O(n) - where n is the length of the longer list"
+}
