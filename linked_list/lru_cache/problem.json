@@ -1,0 +1,11 @@
+{
+  "title": "LRU Cache",
+  "link": "https://leetcode.com/problems/lru-cache/",
+  "difficulty": "medium",
+  "topic": "linked_list",
+  "solved": true,
+  "problem statement": "Design a data structure that follows the constraints of a Least Recently Used (LRU) cache.\n\nImplement the LRUCache class:\n\n- LRUCache(int capacity) Initialize the LRU cache with positive size capacity.\n\n- int get(int key) Return the value of the key if the key exists, otherwise return -1.\n\n- void put(int key, int value) Update the value of the key if the key exists. Otherwise, add the key-value pair to the cache. If the number of keys exceeds the capacity from this operation, evict the least recently used key.\n\nThe functions get and put must each run in O(1) average time complexity.",
+  "approach": "Combine a hash map and a doubly linked list to get O(1) for both get and put. The hash map gives O(1) lookup by key, the doubly linked list maintains the order of use, the left end holds the least recently used node, and the right end holds the most recently used.\n\n- remove detaches a node from wherever it is in the list by making its neighbours point to each other, bypassing it completely.\n\n- insert always adds a node just to the left of the right dummy, making it the most recently used.\n\n- Get: if the key exists, you remove the node from its current position and reinsert it at the right to mark it as most recently used, then return its value.\n\n- Put: if the key already exists, you remove the old node first. Then you create a new node, add it to both the hash map and the right end of the list. If capacity is exceeded, you remove the least recently used node.",
+  "time_complexity": "O(1) for both get and put - hash map lookup is O(1) and insert/remove on a doubly linked list with direct node references is also O(1).",
+  "space_complexity": "O(n)"
+}
