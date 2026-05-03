@@ -1,0 +1,11 @@
+{
+  "title": "Merge k Sorted Lists",
+  "link": "https://leetcode.com/problems/merge-k-sorted-lists/",
+  "difficulty": "hard",
+  "topic": "linked_list",
+  "solved": true,
+  "problem statement": "You are given an array of k linked-lists lists, each linked-list is sorted in ascending order.\n\nMerge all the linked-lists into one sorted linked-list and return it.",
+  "approach": "Using divide and conquer we iterate through the lists in steps of 2, each pair is merged using 2 pointers. Comparing values and appending the smaller node until there are no nodes left. The merged lists are appended into the mergedLists variable, which then replaces lists in the next iteration until there is only one list left.",
+  "time_complexity": "O(n log k)",
+  "space_complexity": "O(1)"
+}
