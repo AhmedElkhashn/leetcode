@@ -1,10 +1,10 @@
 # LeetCode Practice
  Just a repo used to track my LeetCode progress and to motivate me to do more (done in Python) with the goal to solve 150 problems
 
-> Auto-generated · Last updated: 2026-05-03
+> Auto-generated · Last updated: 2026-05-06
 
 
-## Progress — 29 / 150 solved
+## Progress — 30 / 150 solved
 
 
 ## How I Use This Repo
@@ -22,7 +22,7 @@
 |-------|----------|
 | Arrays | 6 |
 | Hashing | 2 |
-| Linked List | 10 |
+| Linked List | 11 |
 | Stack | 6 |
 | Two Pointers | 5 |
 
@@ -43,23 +43,24 @@
 | 10 | [Add Two Numbers](./linked_list/add_two_numbers/README.md) | Linked List | medium | Yes |
 | 11 | [Find the Duplicate Number](./linked_list/find_duplicate_number/README.md) | Linked List | medium | Yes |
 | 12 | [Reorder List](./linked_list/reorder_list/README.md) | Linked List | medium | Yes |
-| 13 | [Linked List Cycle](./linked_list/linked_list_cycle/README.md) | Linked List | easy | Yes |
-| 14 | [Copy List with Random Pointer](./linked_list/copy_list_with_random_pointer/README.md) | Linked List | medium | Yes |
-| 15 | [Reverse Linked List](./linked_list/reverse_linked_list/README.md) | Linked List | easy | Yes |
-| 16 | [LRU Cache](./linked_list/lru_cache/README.md) | Linked List | medium | Yes |
-| 17 | [Car Fleet](./stack/car_fleet/README.md) | Stack | medium | Yes |
-| 18 | [Evaluate Reverse Polish Notation](./stack/evaluate_reverse_polish_notation/README.md) | Stack | medium | Yes |
-| 19 | [Daily Temperature ](./stack/daily_temperature/README.md) | Stack | medium | Yes |
-| 20 | [Largest Rectangle in Histogram](./stack/largest_rectangle_area/README.md) | Stack | hard | Yes |
-| 21 | [Valid Parentheses](./stack/valid_parentheses/README.md) | Stack | easy | Yes |
-| 22 | [Min Stack](./stack/min_stack/README.md) | Stack | medium | Yes |
-| 23 | [3Sum](./two_pointers/three_sum/README.md) | Two Pointers | medium | Yes |
-| 24 | [Two Sum II - Input Array Is Sorted](./two_pointers/two_sum_2/README.md) | Two Pointers | medium | Yes |
-| 25 | [Container With Most Water](./two_pointers/container_with_most_water/README.md) | Two Pointers | medium | Yes |
-| 26 | [Valid Palindrome](./two_pointers/valid_palindrome/README.md) | Two Pointers | easy | Yes |
-| 27 | [Trapping Rain Water](./two_pointers/trapping_rain_water/README.md) | Two Pointers | hard | Yes |
-| 28 | [Valid Anagram](./hashing/valid_anagram/README.md) | Hashing | easy | Yes |
-| 29 | [Group Anagrams](./hashing/group_anagrams/README.md) | Hashing | medium | Yes |
+| 13 | [Reverse Nodes in k-Group](./linked_list/reverse_nodes_in_kgroup/README.md) | Linked List | hard | Yes |
+| 14 | [Linked List Cycle](./linked_list/linked_list_cycle/README.md) | Linked List | easy | Yes |
+| 15 | [Copy List with Random Pointer](./linked_list/copy_list_with_random_pointer/README.md) | Linked List | medium | Yes |
+| 16 | [Reverse Linked List](./linked_list/reverse_linked_list/README.md) | Linked List | easy | Yes |
+| 17 | [LRU Cache](./linked_list/lru_cache/README.md) | Linked List | medium | Yes |
+| 18 | [Car Fleet](./stack/car_fleet/README.md) | Stack | medium | Yes |
+| 19 | [Evaluate Reverse Polish Notation](./stack/evaluate_reverse_polish_notation/README.md) | Stack | medium | Yes |
+| 20 | [Daily Temperature ](./stack/daily_temperature/README.md) | Stack | medium | Yes |
+| 21 | [Largest Rectangle in Histogram](./stack/largest_rectangle_area/README.md) | Stack | hard | Yes |
+| 22 | [Valid Parentheses](./stack/valid_parentheses/README.md) | Stack | easy | Yes |
+| 23 | [Min Stack](./stack/min_stack/README.md) | Stack | medium | Yes |
+| 24 | [3Sum](./two_pointers/three_sum/README.md) | Two Pointers | medium | Yes |
+| 25 | [Two Sum II - Input Array Is Sorted](./two_pointers/two_sum_2/README.md) | Two Pointers | medium | Yes |
+| 26 | [Container With Most Water](./two_pointers/container_with_most_water/README.md) | Two Pointers | medium | Yes |
+| 27 | [Valid Palindrome](./two_pointers/valid_palindrome/README.md) | Two Pointers | easy | Yes |
+| 28 | [Trapping Rain Water](./two_pointers/trapping_rain_water/README.md) | Two Pointers | hard | Yes |
+| 29 | [Valid Anagram](./hashing/valid_anagram/README.md) | Hashing | easy | Yes |
+| 30 | [Group Anagrams](./hashing/group_anagrams/README.md) | Hashing | medium | Yes |
 
 
 ## Difficulty Breakdown
@@ -68,8 +69,8 @@
 |------------|-------|
 | easy | 8 |
 | medium | 18 |
-| hard | 3 |
-| **Total** | **29** |
+| hard | 4 |
+| **Total** | **30** |
 
 
 ---
