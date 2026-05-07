@@ -1,0 +1,11 @@
+{
+  "title": "Binary Search",
+  "link": "https://leetcode.com/problems/binary-search/",
+  "difficulty": "easy",
+  "topic": "binary_search",
+  "solved": true,
+  "problem statement": "Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If target exists, then return its index. Otherwise, return -1.\n\nYou must write an algorithm with O(log n) runtime complexity.",
+  "approach": "Using to pointers calculate the midpoint of the array, if the values of the target is larger than the value at the midpoint we shift the left pointer to the midpoint, if the value of the target is smaller we shift the right pointer to the midpoint otherwise it must be equal to the target so we return the midpoint.",
+  "time_complexity": "O(n long n)",
+  "space_complexity": "O(1)"
+}
