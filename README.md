@@ -1,10 +1,10 @@
 # LeetCode Practice
  Just a repo used to track my LeetCode progress and to motivate me to do more (done in Python) with the goal to solve 150 problems
 
-> Auto-generated · Last updated: 2026-05-06
+> Auto-generated · Last updated: 2026-05-07
 
 
-## Progress — 30 / 150 solved
+## Progress — 31 / 150 solved
 
 
 ## How I Use This Repo
@@ -21,6 +21,7 @@
 | Topic | Problems |
 |-------|----------|
 | Arrays | 6 |
+| Binary Search | 1 |
 | Hashing | 2 |
 | Linked List | 11 |
 | Stack | 6 |
@@ -31,46 +32,47 @@
 
 | # | Problem | Topic | Difficulty | Solved |
 |---|---------|-------|------------|--------|
-| 1 | [Product of Array Except Self](./arrays/product_of_array_except_self/README.md) | Arrays | medium | Yes |
-| 2 | [Contains Duplicate](./arrays/contains_duplicate/README.md) | Arrays | easy | Yes |
-| 3 | [Valid Sudoku](./arrays/valid-sudoku/README.md) | Arrays | medium | Yes |
-| 4 | [Two Sum](./arrays/two_sum/README.md) | Arrays | easy | Yes |
-| 5 | [Top K Frequent Elements](./arrays/top_k_freq/README.md) | Arrays | medium | Yes |
-| 6 | [Longest Consecutive Sequence](./arrays/longest_consecutive_seq/README.md) | Arrays | medium | Yes |
-| 7 | [Merge k Sorted Lists](./linked_list/merge_k_sorted_lists/README.md) | Linked List | hard | Yes |
-| 8 | [Remove Nth Node From End of List](./linked_list/remove_nth_node_from_end/README.md) | Linked List | medium | Yes |
-| 9 | [Merge Two Sorted Lists](./linked_list/merge_two_sorted_lists/README.md) | Linked List | easy | Yes |
-| 10 | [Add Two Numbers](./linked_list/add_two_numbers/README.md) | Linked List | medium | Yes |
-| 11 | [Find the Duplicate Number](./linked_list/find_duplicate_number/README.md) | Linked List | medium | Yes |
-| 12 | [Reorder List](./linked_list/reorder_list/README.md) | Linked List | medium | Yes |
-| 13 | [Reverse Nodes in k-Group](./linked_list/reverse_nodes_in_kgroup/README.md) | Linked List | hard | Yes |
-| 14 | [Linked List Cycle](./linked_list/linked_list_cycle/README.md) | Linked List | easy | Yes |
-| 15 | [Copy List with Random Pointer](./linked_list/copy_list_with_random_pointer/README.md) | Linked List | medium | Yes |
-| 16 | [Reverse Linked List](./linked_list/reverse_linked_list/README.md) | Linked List | easy | Yes |
-| 17 | [LRU Cache](./linked_list/lru_cache/README.md) | Linked List | medium | Yes |
-| 18 | [Car Fleet](./stack/car_fleet/README.md) | Stack | medium | Yes |
-| 19 | [Evaluate Reverse Polish Notation](./stack/evaluate_reverse_polish_notation/README.md) | Stack | medium | Yes |
-| 20 | [Daily Temperature ](./stack/daily_temperature/README.md) | Stack | medium | Yes |
-| 21 | [Largest Rectangle in Histogram](./stack/largest_rectangle_area/README.md) | Stack | hard | Yes |
-| 22 | [Valid Parentheses](./stack/valid_parentheses/README.md) | Stack | easy | Yes |
-| 23 | [Min Stack](./stack/min_stack/README.md) | Stack | medium | Yes |
-| 24 | [3Sum](./two_pointers/three_sum/README.md) | Two Pointers | medium | Yes |
-| 25 | [Two Sum II - Input Array Is Sorted](./two_pointers/two_sum_2/README.md) | Two Pointers | medium | Yes |
-| 26 | [Container With Most Water](./two_pointers/container_with_most_water/README.md) | Two Pointers | medium | Yes |
-| 27 | [Valid Palindrome](./two_pointers/valid_palindrome/README.md) | Two Pointers | easy | Yes |
-| 28 | [Trapping Rain Water](./two_pointers/trapping_rain_water/README.md) | Two Pointers | hard | Yes |
-| 29 | [Valid Anagram](./hashing/valid_anagram/README.md) | Hashing | easy | Yes |
-| 30 | [Group Anagrams](./hashing/group_anagrams/README.md) | Hashing | medium | Yes |
+| 1 | [Binary Search](./binary_search/binary_search/README.md) | Binary Search | easy | Yes |
+| 2 | [Product of Array Except Self](./arrays/product_of_array_except_self/README.md) | Arrays | medium | Yes |
+| 3 | [Contains Duplicate](./arrays/contains_duplicate/README.md) | Arrays | easy | Yes |
+| 4 | [Valid Sudoku](./arrays/valid-sudoku/README.md) | Arrays | medium | Yes |
+| 5 | [Two Sum](./arrays/two_sum/README.md) | Arrays | easy | Yes |
+| 6 | [Top K Frequent Elements](./arrays/top_k_freq/README.md) | Arrays | medium | Yes |
+| 7 | [Longest Consecutive Sequence](./arrays/longest_consecutive_seq/README.md) | Arrays | medium | Yes |
+| 8 | [Merge k Sorted Lists](./linked_list/merge_k_sorted_lists/README.md) | Linked List | hard | Yes |
+| 9 | [Remove Nth Node From End of List](./linked_list/remove_nth_node_from_end/README.md) | Linked List | medium | Yes |
+| 10 | [Merge Two Sorted Lists](./linked_list/merge_two_sorted_lists/README.md) | Linked List | easy | Yes |
+| 11 | [Add Two Numbers](./linked_list/add_two_numbers/README.md) | Linked List | medium | Yes |
+| 12 | [Find the Duplicate Number](./linked_list/find_duplicate_number/README.md) | Linked List | medium | Yes |
+| 13 | [Reorder List](./linked_list/reorder_list/README.md) | Linked List | medium | Yes |
+| 14 | [Reverse Nodes in k-Group](./linked_list/reverse_nodes_in_kgroup/README.md) | Linked List | hard | Yes |
+| 15 | [Linked List Cycle](./linked_list/linked_list_cycle/README.md) | Linked List | easy | Yes |
+| 16 | [Copy List with Random Pointer](./linked_list/copy_list_with_random_pointer/README.md) | Linked List | medium | Yes |
+| 17 | [Reverse Linked List](./linked_list/reverse_linked_list/README.md) | Linked List | easy | Yes |
+| 18 | [LRU Cache](./linked_list/lru_cache/README.md) | Linked List | medium | Yes |
+| 19 | [Car Fleet](./stack/car_fleet/README.md) | Stack | medium | Yes |
+| 20 | [Evaluate Reverse Polish Notation](./stack/evaluate_reverse_polish_notation/README.md) | Stack | medium | Yes |
+| 21 | [Daily Temperature ](./stack/daily_temperature/README.md) | Stack | medium | Yes |
+| 22 | [Largest Rectangle in Histogram](./stack/largest_rectangle_area/README.md) | Stack | hard | Yes |
+| 23 | [Valid Parentheses](./stack/valid_parentheses/README.md) | Stack | easy | Yes |
+| 24 | [Min Stack](./stack/min_stack/README.md) | Stack | medium | Yes |
+| 25 | [3Sum](./two_pointers/three_sum/README.md) | Two Pointers | medium | Yes |
+| 26 | [Two Sum II - Input Array Is Sorted](./two_pointers/two_sum_2/README.md) | Two Pointers | medium | Yes |
+| 27 | [Container With Most Water](./two_pointers/container_with_most_water/README.md) | Two Pointers | medium | Yes |
+| 28 | [Valid Palindrome](./two_pointers/valid_palindrome/README.md) | Two Pointers | easy | Yes |
+| 29 | [Trapping Rain Water](./two_pointers/trapping_rain_water/README.md) | Two Pointers | hard | Yes |
+| 30 | [Valid Anagram](./hashing/valid_anagram/README.md) | Hashing | easy | Yes |
+| 31 | [Group Anagrams](./hashing/group_anagrams/README.md) | Hashing | medium | Yes |
 
 
 ## Difficulty Breakdown
 
 | Difficulty | Count |
 |------------|-------|
-| easy | 8 |
+| easy | 9 |
 | medium | 18 |
 | hard | 4 |
-| **Total** | **30** |
+| **Total** | **31** |
 
 
 ---
